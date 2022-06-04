@@ -41,7 +41,7 @@ export default function Project({ children, pageTitle, description }) {
           <ul className="nav-list">
             <li>
               <motion.a
-                href="/Alexander_Grattan_Resume.pdf"
+                href="/Sose-Sahakian.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}

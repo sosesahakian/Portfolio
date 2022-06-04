@@ -26,7 +26,7 @@ function Footer() {
     <ul className="footer-links">
       <li>
         <motion.a
-          href="https://drive.google.com/file/d/1PgvpHThs5XjTwGZgib9ZTVLa8QbhulWp/view?usp=sharing"
+          href="/Sose-Sahakian.pdf"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.1 }}
