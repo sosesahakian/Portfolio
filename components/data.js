@@ -4,8 +4,8 @@ export const projectsList = [
     name: "Instagram",
     description:
       "A Clone of instagram, where you can post and add comments",
-    image: "/images/instagram.png",
-    mobileImage: "/images/instagram.png",
+    image: "/images/instagram.PNG",
+    mobileImage: "/images/instagram.PNG",
     link: "https://insta-clone-sosesahakian.vercel.app/",
     GitHub: "https://github.com/sosesahakian/insta-clone",
     project: "instagram",
@@ -16,8 +16,8 @@ export const projectsList = [
     name: "Uber",
     description:
       "An Uber clone where you can login, type in where to go and it will show on the map",
-    image: "/images/uber.png",
-    mobileImage: "/images/uber.png",
+    image: "/images/uber.PNG",
+    mobileImage: "/images/uber.PNG",
     link: "https://uber-sosesahakian.vercel.app/",
     GitHub: "https://github.com/sosesahakian/Uber",
     project: "uber",
@@ -28,8 +28,8 @@ export const projectsList = [
     name: "Facebook",
     description:
       "[WIP] A clone of Facebook - right now just some visual stuff",
-    image: "/images/fb.png",
-    mobileImage: "/images/fb.png",
+    image: "/images/fb.PNG",
+    mobileImage: "/images/fb.PNG",
     link: "https://facebook-sosesahakian.vercel.app/",
     GitHub: "https://github.com/sosesahakian/facebook",
     project: "facebook",
